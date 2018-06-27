@@ -1,5 +1,5 @@
 {
-  "name": "html-pdf",
+  "name": "@jamplify/html-pdf",
   "version": "2.0.2",
   "description": "HTML to PDF converter that uses phantomjs",
   "engines": {
